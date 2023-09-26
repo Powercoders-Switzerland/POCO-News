@@ -1,0 +1,49 @@
+/*Main*/
+Main {
+    display: inline-flex;
+    width: 100%;
+}
+/*/Main*/
+
+/*MainContainer*/
+.MainLeft {
+    flex: 3;      
+    display: inline;        
+    padding-left: 10%;
+    
+}
+
+.New1 {
+    display: inline-flex;
+    width: auto;
+}
+
+.New1Text{
+    margin-right: 10px;
+    margin
+}
+
+.New1 img {
+    width: 12em;
+}
+
+.NewCorusel {
+    display: flex;
+}
+
+.CoruselItems{
+flex: 1;
+}
+
+.CoruselItems img {
+    width: 15em;
+}
+/*/MainContainer*/
+
+
+/*ScrollNews*/
+.MainRight { 
+    flex: 1;
+    margin: 10px;    
+}
+/*/ScrollNews*/
